@@ -5,6 +5,12 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+<head>
+    <link rel="stylesheet" href="path/to/your/styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"></script>
+</head>
+
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
