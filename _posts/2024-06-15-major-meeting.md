@@ -15,3 +15,8 @@ tags:								#标签
 # 就业
 
 本科就业
+
+~~~ python
+print("hello world")
+print(1+2)
+~~~
